@@ -1,2 +1,3 @@
 # HeatingMat
-A little stud. project. heating of material with the finite difference method
+Проводник имеющий определенный коэффицинет теплопроводности нагревают с двух сторон используя разные функции для нагрева и охлаждения.
+Java + jogl
